@@ -1,5 +1,7 @@
 # CAHIER DES CHARGES
+## 🖥️ Présentation des livrables
 
+📄 [Voir la présentation en ligne (Google Drive)](https://drive.google.com/file/d/1KYB6l2zBXlWT78EWSbzuhMhLlnIyg56r/view?usp=drive_link)
 ## Contexte du Projet
 L'Organisation nationale de lutte contre le faux-monnayage (ONCFM) est une organisation publique visant à mettre en place des méthodes d’identification des contrefaçons de billets en euros.  
 Dans ce cadre, notre objectif est de développer un algorithme capable de différencier automatiquement les vrais billets des faux.
